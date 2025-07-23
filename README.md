@@ -68,7 +68,7 @@ http://localhost:8686<br />
 Follow the same steps for Lidarr and Readarr as for above applications.<br />
 
 **Readarr:**<br />
-http://localhost:8787<br />
+This image was REMOVED on 23rd July 2025 as its no longer supported by linuxserver
 
 **Homarr:**<br />
 http://localhost:7575<br />
